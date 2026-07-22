@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "EvenNumbers\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedPassword", "FixedPassword\FixedPassword.csproj", "{EBB70CFD-AD23-4F8D-915D-72BC154A381A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max", "Max\Max.csproj", "{F02713D8-91D3-4E80-A5E2-604D6D024853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{EBB70CFD-AD23-4F8D-915D-72BC154A381A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBB70CFD-AD23-4F8D-915D-72BC154A381A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBB70CFD-AD23-4F8D-915D-72BC154A381A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02713D8-91D3-4E80-A5E2-604D6D024853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02713D8-91D3-4E80-A5E2-604D6D024853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02713D8-91D3-4E80-A5E2-604D6D024853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02713D8-91D3-4E80-A5E2-604D6D024853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -232,6 +238,7 @@ Global
 		{1567B8CD-24A8-40B5-9FF4-6F3EC056EC77} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 		{CF370CE9-4375-425A-9C5F-9C625DCE204D} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 		{EBB70CFD-AD23-4F8D-915D-72BC154A381A} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
+		{F02713D8-91D3-4E80-A5E2-604D6D024853} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
