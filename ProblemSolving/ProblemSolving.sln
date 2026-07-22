@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "D:\ps\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "D:\ps\Difference\Difference.csproj", "{C317066C-5B14-B4BF-375A-D19506C55EF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfCircle", "D:\ps\AreaOfCircle\AreaOfCircle.csproj", "{DC5E7D3E-F781-874E-AF64-222830EE57CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{C317066C-5B14-B4BF-375A-D19506C55EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C317066C-5B14-B4BF-375A-D19506C55EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C317066C-5B14-B4BF-375A-D19506C55EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5E7D3E-F781-874E-AF64-222830EE57CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5E7D3E-F781-874E-AF64-222830EE57CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5E7D3E-F781-874E-AF64-222830EE57CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5E7D3E-F781-874E-AF64-222830EE57CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,6 +53,7 @@ Global
 		{035A6EC8-5B97-3D6A-798D-F65FEC901AD9} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
 		{5DD7639B-3D92-96C9-C54B-9DFE4618C800} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
 		{C317066C-5B14-B4BF-375A-D19506C55EF9} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
+		{DC5E7D3E-F781-874E-AF64-222830EE57CF} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
