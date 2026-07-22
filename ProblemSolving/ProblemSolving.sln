@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoIntervals", "TwoInterval
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLast2Digits", "TheLast2Digits\TheLast2Digits.csproj", "{8EDF6136-F58F-4EB8-80B0-82FE1F6A839E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardCompare", "HardCompare\HardCompare.csproj", "{95593B78-5AAC-47B8-BEA5-C0BE893AE2F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{8EDF6136-F58F-4EB8-80B0-82FE1F6A839E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EDF6136-F58F-4EB8-80B0-82FE1F6A839E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EDF6136-F58F-4EB8-80B0-82FE1F6A839E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95593B78-5AAC-47B8-BEA5-C0BE893AE2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95593B78-5AAC-47B8-BEA5-C0BE893AE2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95593B78-5AAC-47B8-BEA5-C0BE893AE2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95593B78-5AAC-47B8-BEA5-C0BE893AE2F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -199,6 +205,7 @@ Global
 		{67915698-AC29-452C-B27E-D4F4379F0504} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
 		{A0C38E3F-9C86-45BF-9404-24A5584F4EEF} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
 		{8EDF6136-F58F-4EB8-80B0-82FE1F6A839E} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
+		{95593B78-5AAC-47B8-BEA5-C0BE893AE2F6} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
