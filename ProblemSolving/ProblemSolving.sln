@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsSummation", "D:\ps\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummationFrom1ToN", "D:\ps\SummationFrom1ToN\SummationFrom1ToN.csproj", "{9CDADD65-BE6C-C94A-C077-A058C320F32A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumbers", "D:\ps\TwoNumbers\TwoNumbers.csproj", "{4733E891-33AA-17D5-5D80-0D074F8804A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{9CDADD65-BE6C-C94A-C077-A058C320F32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CDADD65-BE6C-C94A-C077-A058C320F32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CDADD65-BE6C-C94A-C077-A058C320F32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4733E891-33AA-17D5-5D80-0D074F8804A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4733E891-33AA-17D5-5D80-0D074F8804A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4733E891-33AA-17D5-5D80-0D074F8804A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4733E891-33AA-17D5-5D80-0D074F8804A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +74,7 @@ Global
 		{DC5E7D3E-F781-874E-AF64-222830EE57CF} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
 		{5ED0AEEE-8FB4-92B6-9743-ACFD2F3091DD} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
 		{9CDADD65-BE6C-C94A-C077-A058C320F32A} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
+		{4733E891-33AA-17D5-5D80-0D074F8804A6} = {D85432E9-9364-46E1-A730-8107C92C2E8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
