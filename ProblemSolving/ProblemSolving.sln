@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1ToN", "1ToN\1ToN.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "EvenNumbers\EvenNumbers.csproj", "{CF370CE9-4375-425A-9C5F-9C625DCE204D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedPassword", "FixedPassword\FixedPassword.csproj", "{EBB70CFD-AD23-4F8D-915D-72BC154A381A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{CF370CE9-4375-425A-9C5F-9C625DCE204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF370CE9-4375-425A-9C5F-9C625DCE204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF370CE9-4375-425A-9C5F-9C625DCE204D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB70CFD-AD23-4F8D-915D-72BC154A381A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB70CFD-AD23-4F8D-915D-72BC154A381A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB70CFD-AD23-4F8D-915D-72BC154A381A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB70CFD-AD23-4F8D-915D-72BC154A381A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -225,6 +231,7 @@ Global
 		{BFDEEE1D-D23A-4152-A7BD-DE31366E09F1} = {F5CBE03D-1D53-497C-9472-56BA9C7DE832}
 		{1567B8CD-24A8-40B5-9FF4-6F3EC056EC77} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 		{CF370CE9-4375-425A-9C5F-9C625DCE204D} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
+		{EBB70CFD-AD23-4F8D-915D-72BC154A381A} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
