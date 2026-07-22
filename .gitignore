@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+*.suo
+*.sqlite
+CopilotIndices/
+CodeChunks.db
+bin/
+obj/
