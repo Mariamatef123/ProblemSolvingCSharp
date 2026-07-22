@@ -9,6 +9,10 @@
                 if (i % 2 != 0) continue;
                 Console.WriteLine(i);
             }
+            if (n <= 1)
+            {
+                Console.WriteLine(-1);
+            }
         }
     }
 }
