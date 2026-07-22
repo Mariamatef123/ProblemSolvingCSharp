@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstDigit", "FirstDigit\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{BCD8B8AE-BFD7-461F-BA98-73B54A22F322}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinatesOfPoint", "CoordinatesOfPoint\CoordinatesOfPoint.csproj", "{BD7B966A-B6F3-4BEC-99A8-4AEE73C5DE30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{BCD8B8AE-BFD7-461F-BA98-73B54A22F322}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD8B8AE-BFD7-461F-BA98-73B54A22F322}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD8B8AE-BFD7-461F-BA98-73B54A22F322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7B966A-B6F3-4BEC-99A8-4AEE73C5DE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7B966A-B6F3-4BEC-99A8-4AEE73C5DE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7B966A-B6F3-4BEC-99A8-4AEE73C5DE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7B966A-B6F3-4BEC-99A8-4AEE73C5DE30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -136,6 +142,7 @@ Global
 		{9889272B-0709-43C2-AE6B-C54B6354A8A4} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
 		{B8DE1BBA-8F0B-4581-9823-7E8F1AFE030A} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
 		{BCD8B8AE-BFD7-461F-BA98-73B54A22F322} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
+		{BD7B966A-B6F3-4BEC-99A8-4AEE73C5DE30} = {B0F4C713-3C7C-48F5-A6DB-B9BE98DF5D11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
