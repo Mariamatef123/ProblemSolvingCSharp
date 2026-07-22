@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{9737A678-C8B2-4A0B-B70B-9BBD46FEC30C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnePrime", "OnePrime\OnePrime.csproj", "{AF34A009-408D-4C99-A6FC-AB6679A8A374}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{9737A678-C8B2-4A0B-B70B-9BBD46FEC30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9737A678-C8B2-4A0B-B70B-9BBD46FEC30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9737A678-C8B2-4A0B-B70B-9BBD46FEC30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF34A009-408D-4C99-A6FC-AB6679A8A374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF34A009-408D-4C99-A6FC-AB6679A8A374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF34A009-408D-4C99-A6FC-AB6679A8A374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF34A009-408D-4C99-A6FC-AB6679A8A374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -253,6 +259,7 @@ Global
 		{F02713D8-91D3-4E80-A5E2-604D6D024853} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 		{D9341C40-0ED9-4F3B-928F-9BB16F00B3B6} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 		{9737A678-C8B2-4A0B-B70B-9BBD46FEC30C} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
+		{AF34A009-408D-4C99-A6FC-AB6679A8A374} = {BFDEEE1D-D23A-4152-A7BD-DE31366E09F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
