@@ -137,6 +137,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeArray", "Palindro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestNumber", "LowestNumber\LowestNumber.csproj", "{64CF9864-C877-4401-B340-D96D20480409}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{50A2FA67-C9D8-48A3-86F1-DB64354EF343}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -379,6 +381,10 @@ Global
 		{64CF9864-C877-4401-B340-D96D20480409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64CF9864-C877-4401-B340-D96D20480409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64CF9864-C877-4401-B340-D96D20480409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A2FA67-C9D8-48A3-86F1-DB64354EF343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A2FA67-C9D8-48A3-86F1-DB64354EF343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A2FA67-C9D8-48A3-86F1-DB64354EF343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A2FA67-C9D8-48A3-86F1-DB64354EF343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -447,6 +453,7 @@ Global
 		{08075379-87C2-4C0E-B3D2-64277F85538D} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{8B3D8880-BA5F-4693-8F21-EA651655F313} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{64CF9864-C877-4401-B340-D96D20480409} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
+		{50A2FA67-C9D8-48A3-86F1-DB64354EF343} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
