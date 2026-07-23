@@ -8,7 +8,7 @@
             int [] arr= Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
-                .ToArray();;
+                .ToArray();
             int sum = 0;
             for (int i = 0; i < n; i++) {
                 
