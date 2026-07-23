@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestPair", "SmallestPai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyArray", "LuckyArray\LuckyArray.csproj", "{829B33E8-AC23-4043-9E4D-CC28D89C530E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumDigits", "SumDigits\SumDigits.csproj", "{FC77C0C0-4900-47C4-BEC2-D8AB42494FF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -397,6 +399,10 @@ Global
 		{829B33E8-AC23-4043-9E4D-CC28D89C530E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829B33E8-AC23-4043-9E4D-CC28D89C530E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829B33E8-AC23-4043-9E4D-CC28D89C530E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC77C0C0-4900-47C4-BEC2-D8AB42494FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC77C0C0-4900-47C4-BEC2-D8AB42494FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC77C0C0-4900-47C4-BEC2-D8AB42494FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC77C0C0-4900-47C4-BEC2-D8AB42494FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -468,6 +474,7 @@ Global
 		{50A2FA67-C9D8-48A3-86F1-DB64354EF343} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{E96399AA-ADDF-458F-B192-4A72490FCCEC} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{829B33E8-AC23-4043-9E4D-CC28D89C530E} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
+		{FC77C0C0-4900-47C4-BEC2-D8AB42494FF2} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
