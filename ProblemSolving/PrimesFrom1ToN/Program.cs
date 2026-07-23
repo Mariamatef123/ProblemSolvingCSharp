@@ -24,16 +24,14 @@
                 {
                     if (count == (notDivisable.Length) - 1)
                     {
-                        Console.Write(i);
-                        Console.Write("\t");
+                        Console.Write($"{i} ");                 
                     }
                 }
                 else
                 {
                     if (count == (notDivisable.Length))
                     {
-                        Console.Write(i);
-                        Console.Write("\t");
+                        Console.Write($"{i} ");
                     }
                 }
            count=0;
