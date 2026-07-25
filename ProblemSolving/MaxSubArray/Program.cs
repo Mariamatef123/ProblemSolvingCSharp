@@ -44,6 +44,7 @@ namespace MaxSubArray
                     count++;
                     count1--;
                 }
+                
                 int max;
                 for (int j = 0; j < sum; j++)
                 {
