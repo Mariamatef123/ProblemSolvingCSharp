@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceMinMax", "ReplaceMin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckCode", "CheckCode\CheckCode.csproj", "{D5645491-6A84-4740-BDF4-F0CB77B00988}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{78501151-F096-47F1-85FE-5C23F871F78E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -421,6 +423,10 @@ Global
 		{D5645491-6A84-4740-BDF4-F0CB77B00988}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5645491-6A84-4740-BDF4-F0CB77B00988}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5645491-6A84-4740-BDF4-F0CB77B00988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78501151-F096-47F1-85FE-5C23F871F78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78501151-F096-47F1-85FE-5C23F871F78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78501151-F096-47F1-85FE-5C23F871F78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78501151-F096-47F1-85FE-5C23F871F78E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -496,6 +502,7 @@ Global
 		{B97B0872-C2A2-4967-86A8-7B0765CB2E51} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{A988A328-F402-4AD4-80F8-451CE5E837D5} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{D5645491-6A84-4740-BDF4-F0CB77B00988} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
+		{78501151-F096-47F1-85FE-5C23F871F78E} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
