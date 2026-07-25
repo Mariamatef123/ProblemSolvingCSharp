@@ -169,6 +169,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyArray", "Frequency
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorArray", "MirrorArray\MirrorArray.csproj", "{DF3B86A2-06E2-4B1F-AF07-DD787E8744E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neighbors", "Neighbors\Neighbors.csproj", "{E26E7700-EBBC-47CB-8431-A05CEDD5CD9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -475,6 +477,10 @@ Global
 		{DF3B86A2-06E2-4B1F-AF07-DD787E8744E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF3B86A2-06E2-4B1F-AF07-DD787E8744E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF3B86A2-06E2-4B1F-AF07-DD787E8744E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26E7700-EBBC-47CB-8431-A05CEDD5CD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26E7700-EBBC-47CB-8431-A05CEDD5CD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26E7700-EBBC-47CB-8431-A05CEDD5CD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26E7700-EBBC-47CB-8431-A05CEDD5CD9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -559,6 +565,7 @@ Global
 		{7AD9F561-1D80-4411-B61F-029C66B00059} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{FD0BEEE2-1F09-4E4D-A9D3-2A71CF9CC20E} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{DF3B86A2-06E2-4B1F-AF07-DD787E8744E6} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
+		{E26E7700-EBBC-47CB-8431-A05CEDD5CD9E} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
