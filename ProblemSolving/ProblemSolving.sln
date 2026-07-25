@@ -165,6 +165,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsBSubsequenceOfA", "IsBSubsequenceOfA\IsBSubsequenceOfA.csproj", "{7AD9F561-1D80-4411-B61F-029C66B00059}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyArray", "FrequencyArray\FrequencyArray.csproj", "{FD0BEEE2-1F09-4E4D-A9D3-2A71CF9CC20E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -463,6 +465,10 @@ Global
 		{7AD9F561-1D80-4411-B61F-029C66B00059}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AD9F561-1D80-4411-B61F-029C66B00059}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AD9F561-1D80-4411-B61F-029C66B00059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0BEEE2-1F09-4E4D-A9D3-2A71CF9CC20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0BEEE2-1F09-4E4D-A9D3-2A71CF9CC20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0BEEE2-1F09-4E4D-A9D3-2A71CF9CC20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0BEEE2-1F09-4E4D-A9D3-2A71CF9CC20E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -545,6 +551,7 @@ Global
 		{51BD04E0-8ED7-4C90-AD56-186811601AA2} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{E14F53B4-E493-49F4-862B-C828CB4FA143} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{7AD9F561-1D80-4411-B61F-029C66B00059} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
+		{FD0BEEE2-1F09-4E4D-A9D3-2A71CF9CC20E} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
