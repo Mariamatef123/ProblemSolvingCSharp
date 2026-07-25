@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeNumber", "MinimizeNumber\MinimizeNumber.csproj", "{F72F47F4-7FE1-4E6A-B373-BD16B3B645C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSubArrays", "CountSubArrays\CountSubArrays.csproj", "{0B9C8864-F447-48E9-A78C-9FBE8F65BE36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -433,6 +435,10 @@ Global
 		{F72F47F4-7FE1-4E6A-B373-BD16B3B645C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F72F47F4-7FE1-4E6A-B373-BD16B3B645C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F72F47F4-7FE1-4E6A-B373-BD16B3B645C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9C8864-F447-48E9-A78C-9FBE8F65BE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9C8864-F447-48E9-A78C-9FBE8F65BE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9C8864-F447-48E9-A78C-9FBE8F65BE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9C8864-F447-48E9-A78C-9FBE8F65BE36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -510,6 +516,7 @@ Global
 		{D5645491-6A84-4740-BDF4-F0CB77B00988} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{78501151-F096-47F1-85FE-5C23F871F78E} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 		{F72F47F4-7FE1-4E6A-B373-BD16B3B645C0} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
+		{0B9C8864-F447-48E9-A78C-9FBE8F65BE36} = {0F8BB2D8-418E-4CA3-AA8E-6490AAF56DFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2E642E-3DE2-4269-A4CF-D632969CB3F8}
