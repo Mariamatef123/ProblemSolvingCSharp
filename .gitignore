@@ -1,10 +1,8 @@
-# Visual Studio
 .vs/
+.vscode/
+*.suo
+*.sqlite
+CopilotIndices/
+CodeChunks.db
 bin/
 obj/
-*.suo
-*.user
-
-# Build
-[Dd]ebug/
-[Re]elease/
